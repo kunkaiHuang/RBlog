@@ -324,6 +324,7 @@ DEPENDENCIES
   rails (~> 5.1.4)
   rails-i18n (~> 5.0.3)
   rails_apps_testing
+  rake
   redis-namespace
   rspec-rails
   sass-rails (~> 5.0)
@@ -340,4 +341,4 @@ DEPENDENCIES
   web-console (>= 3.3.0)
 
 BUNDLED WITH
-   1.15.4
+   1.17.1
